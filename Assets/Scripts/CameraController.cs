@@ -14,7 +14,7 @@ public class CameraController : MonoBehaviour {
 	// Update is called once per frame
 	void LateUpdate () 
 	{
-        //adding a comment to test source control
+        //adding a comment to test source control (Git)
 		transform.position = player.transform.position + offset;
 	}
 
